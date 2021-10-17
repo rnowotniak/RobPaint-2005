@@ -1,6 +1,7 @@
 
-# RobPaint (C) 2005   Robert Nowotniak <robert@nowotniak.com>
+# Robert's Paint 
 
+Author: Robert Nowotniak, 2005 <<robert@nowotniak.com>>
 
 To run this program, compile it with javac, and run:
 
