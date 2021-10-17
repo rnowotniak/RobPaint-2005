@@ -1,5 +1,5 @@
 
-# Robert's Paint 
+# Robert's Paint in Java
 
 Author: Robert Nowotniak, 2005 <<robert@nowotniak.com>>
 
